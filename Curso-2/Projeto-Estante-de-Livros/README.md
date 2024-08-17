@@ -20,11 +20,12 @@ projeto realizado em aula com o professor para exibir diversos livros e suas inf
 
 Desenvolver a estante de livros em HTML e CSS foi uma experiência desafiadora. Pude  aprender e entender técnicas de estruturação e formatação aprendidas nas aulas para criar um layout organizado e agradável visualmente. com o tutorial do professor aprendi técnicas de formatação e estilização em CSS para melhorar a aparência  e o layout da página, tornando-a mais atrativa e fácil de navegar.
 
-## Como usar
+<br>
+<br>
 
-1. Faça o clone deste repositório.
-2. Abra o arquivo `login.html` no seu navegador.
 
-## Pré-requisitos
+![screencapture-file-C-Users-vanes-Downloads-estudos-html-css-js-main-estudos-html-css-js-main-Curso-2-Projeto-Estante-de-Livros-estante-html-2024-08-16-22_41_03](https://github.com/user-attachments/assets/9f864cf5-272a-41b1-a17a-f5be3d162594)
 
-- Navegador web (recomendamos Google Chrome, Mozilla Firefox, ou Microsoft Edge).
+
+
+
