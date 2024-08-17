@@ -24,10 +24,6 @@ O site tem navegação entre as páginas (Home e Tabela de Preços) que foi real
 <br>
 
 
-![screencapture-file-C-Users-vanes-Downloads-estudos-html-css-js-main-estudos-html-css-js-main-Curso-1-Alfa-Tech-home-html-2024-08-16-22_22_59](https://github.com/user-attachments/assets/a1bfa051-df50-4714-873d-93add20af26f)
-
-<br>
-<br>
 
 ## :books: O que aprendi:
 
