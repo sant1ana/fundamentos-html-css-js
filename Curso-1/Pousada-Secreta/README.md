@@ -13,6 +13,11 @@
 
 <br><br>
 
+![screencapture-file-C-Users-vanes-Downloads-estudos-html-css-js-main-estudos-html-css-js-main-Curso-1-Pousada-Secreta-index-html-2024-08-16-22_20_42](https://github.com/user-attachments/assets/f3027b61-419b-4a2e-977a-69b2d6aa8883)
+
+
+<br><br>
+
 ## ✅ Status do Projeto
 
 - Concluído
