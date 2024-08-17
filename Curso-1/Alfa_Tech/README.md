@@ -18,6 +18,16 @@ Cada página tem uma tabela informativa.<br><br>
 O site tem navegação entre as páginas (Home e Tabela de Preços) que foi realizada através de links inseridos no topo. 
 </p><br><br>
 
+![screencapture-file-C-Users-vanes-Downloads-estudos-html-css-js-main-estudos-html-css-js-main-Curso-1-Alfa-Tech-Home-html-2024-08-16-22_22_27](https://github.com/user-attachments/assets/77d51f76-f1b7-48e9-8f52-f3ba8dd4c72f)
+
+<br>
+<br>
+
+
+![screencapture-file-C-Users-vanes-Downloads-estudos-html-css-js-main-estudos-html-css-js-main-Curso-1-Alfa-Tech-home-html-2024-08-16-22_22_59](https://github.com/user-attachments/assets/a1bfa051-df50-4714-873d-93add20af26f)
+
+<br>
+<br>
 
 ## :books: O que aprendi:
 
