@@ -6,6 +6,15 @@
 
 <p align="center">🚀 Site para um Pet Shop utilizando as linguagens HTML e CSS</p>
 
+<br>
+<br>
+
+
+![screencapture-file-C-Users-vanes-Downloads-estudos-html-css-js-main-estudos-html-css-js-main-Curso-1-Site-Pet-Shop-index-html-2024-08-16-22_19_31](https://github.com/user-attachments/assets/84bde7ad-50e6-4c35-99f8-7027bcacdc6c)
+
+
+<br>
+<br>
 
 
 ## :books: O que aprendi:
