@@ -1,0 +1,1 @@
+![screencapture-file-C-Users-vanes-Downloads-estudos-html-css-js-main-estudos-html-css-js-main-Curso-3-Curriculo-web-index-html-2024-08-16-22_48_36](https://github.com/user-attachments/assets/42ad5558-cac0-4eed-a00b-a601e7c104c1)
