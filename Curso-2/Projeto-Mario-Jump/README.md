@@ -18,9 +18,6 @@ https://github.com/sant1ana/Curso-Codifica/assets/93404790/3909e492-3af2-472f-a9
 - CSS3
 - JavaScript
 
-## Instalação e Execução
-1. Faça um clone deste repositório ou baixe o código fonte.
-2. Navegue até o diretório onde os arquivos estão localizados.
-3. Abra o arquivo `index.html` em seu navegador.
+
 
 
