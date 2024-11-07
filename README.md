@@ -1,6 +1,6 @@
 # Estudo ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?style=flat&logo=javascript&logoColor=black)
 
-Este repositório contém uma coleção de exercícios práticos realizados durante meu estudo de HTML, CSS e JavaScript. O objetivo principal é documentar e organizar as atividades desenvolvidas ao longo dos cursos, servindo como um registro do meu aprendizado e progresso pessoal.
+Este repositório contém uma coleção de exercícios práticos realizados durante meu estudo dos  fundamentos de HTML, CSS e JavaScript. O objetivo principal é documentar e organizar as atividades desenvolvidas ao longo dos cursos, servindo como um registro do meu aprendizado.
 
 ## Estrutura
 Todos os exercícios estão localizados na pasta `Curso-1/` `Curso-2/`  `Curso-3/`.
